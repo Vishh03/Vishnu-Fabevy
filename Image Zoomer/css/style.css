@@ -1,0 +1,84 @@
+body{
+    background-color:rgb(194, 148, 175);
+    background-image:linear-gradient(deepskyblue, lavender,aqua,grey,rgb(155, 32, 32))
+}
+#see{
+    border: 10px solid;border-radius: 10px;
+    margin-left:390px ;
+    margin-top: 10px;
+}
+
+h1{
+    color: #fff;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+    margin-left: 540px;
+    color: black
+}
+#zoomin{
+    background-color:darkslategray;
+
+    color:cornsilk;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+    border-radius: 8px;
+    margin-left: 390px;
+    display:inline
+    
+    
+   
+}
+#zoomout{
+    background-color:darkslategray;
+    color:cornsilk;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #0fa,
+        0 0 82px #0fa,
+        0 0 92px #0fa,
+        0 0 102px #0fa,
+        0 0 151px #0fa;
+    border-radius: 8px;
+    margin-left: 320px;
+    margin-top: 30px;
+   }
+#zoomin:hover{
+    background-color:lightpink;
+    color: black;
+    cursor: pointer;
+
+}
+#zoomout:hover{
+    background-color:lightpink;
+    color: black;
+    cursor: pointer;
+
+}
+h1:hover{
+    color: #fff;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+}
